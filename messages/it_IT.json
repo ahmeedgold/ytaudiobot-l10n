@@ -96,6 +96,10 @@
     "download_successful": "{HEAVY_CHECK_MARK} *Audio scaricato con successo!*",
     "wait_previous_download": "{WARNING} Aspetta il tuo download precedente!",
     "download_queue_full": "{WARNING} La coda download è piena. Riprova più tardi.",
+    "download_unavailable_inline": [
+        "{CROSS_MARK} *Il video* [{} - {}](https://youtu.be/{}) *non è disponibile tramite la modalità inline!*\\n\\n",
+        "Premi il pulsante per scaricarlo e riprova."
+    ],
     "help_1": [
         "{OPEN_BOOK} *Guida (1 di 4)*\\n\\n",
         "L'unica cosa che ti serve è l'URL del video YouTube dal quale vuoi estrarre l'audio, come questo:\\n\\n",
