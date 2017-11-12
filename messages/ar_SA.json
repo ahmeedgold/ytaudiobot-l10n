@@ -2,14 +2,14 @@
     "position": 14,
     "right_to_left": true,
     "description": [
-        "تحميل مقاطع اليوتيوب كملفات صوتية لتسطيع سماعها في اي مكان !\\n\\n",
+        "تحميل الفيديوهات من اليوتيوب كملف صوتي وتستطيع تشغيله في اي لحضة !\\n\\n",
         "الاسم الآخر للبوت: @YTAudio_Bot"
     ],
-    "type_search_terms": "{MEMO} اكتب عبارات بحثك",
+    "type_search_terms": "{MEMO} عن ماذا تريد البحث",
     "search_on_youtube": "{RIGHT_POINTING_MAGNIFYING_GLASS} بحث \\\"{terms}\\\" في اليوتيوب",
     "error": "{PENSIVE_FACE} حدث خطأ. حاول مرة اخرى لاحقاً.",
-    "longer_download_time": "{WARNING} *هذا الفيديو من الممكن ان يأخذ وقت اطول من العتاد. وربما يفشل تحميله!*",
-    "clear_history_warning": "{WARNING} انت على وشك حذف جميع المحفوظات!",
+    "longer_download_time": "{WARNING} *هذا الفيديو كبير الحجم قد يتأخر في التحميل وربما يفشل التحميل!*",
+    "clear_history_warning": "{WARNING} هل متأكد برغبتك بحذف جميع المحفوضات؟!",
     "history_settings": [
         "{HOURGLASS} *سجل المحفوظات*\\n\\n",
         "{لا يوجد عناصر|يوجد عنصر واحد فقط|يوجد # عناصر} في سجل محفوظاتك."
@@ -29,19 +29,19 @@
     "item_restored": "{HEAVY_PLUS_SIGN} تم استعادة الملف",
     "download_history_paused": "{BALLOT_BOX_WITH_CHECK} تم ايقاف سجل المحفوظات مؤقتاً",
     "download_history_resumed": "{WHITE_HEAVY_CHECK_MARK} تم استئناف سجل المحفوظات",
-    "download_history_cleared": "{WASTEBASKET} تم محو جميع المحفوظات",
+    "download_history_cleared": "{WASTEBASKET} تم حذف جميع المحفوظات",
     "file_expired": [
         "{WARNING} *انتهت صلاحية الملف*\\n\\n",
         "اضغط على {command} لإعادة التحميل مجدداً."
     ],
     "file_info": [
-        "{PAGE_WITH_CURL} مزيد من المعلومات\\n\\n",
+        "{PAGE_WITH_CURL}  مزيد من المعلومات\\n\\n",
         "{SMALL_ORANGE_DIAMOND} معرف الفيديو في يوتيوب: {video_id}\\n",
-        "{SMALL_ORANGE_DIAMOND} المدة: {duration}\\n",
-        "{SMALL_ORANGE_DIAMOND} الحجم: {file_size} MB\\n",
+        "{SMALL_ORANGE_DIAMOND} مدة الفيديو: {duration}\\n",
+        "{SMALL_ORANGE_DIAMOND} حجم الملف: {file_size} MB\\n",
         "{SMALL_ORANGE_DIAMOND} SHA256: {sha256_sum}"
     ],
-    "listen_on_youtube": "{LINK} [استمع في يوتيوب](https://youtu.be/{video_id})",
+    "listen_on_youtube": "{LINK} [ضغط هنا للاستماع في اليه في يوتيوب](https://youtu.be/{video_id})",
     "like": [
         "{SPARKLES} *شكراً, {name}!*\\n\\n",
         "اننا سعداء لإعجابكم.\\n\\n",
